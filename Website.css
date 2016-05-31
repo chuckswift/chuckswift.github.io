@@ -37,6 +37,17 @@ footer {
   height: 175px;
 }
 
+#heart {
+    width: 200px;
+    height: 400px;
+    float: left;
+}
+
+#skull {
+  width: 100%;
+  height: 175px;
+}
+
 
 html {
     background-color: orange;
